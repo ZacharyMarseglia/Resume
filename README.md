@@ -12,7 +12,7 @@ SUMMARY OF QUALIFICATIONS
 - Proficient in Programming Languages: Python, C++, Java, JavaScript
 
 EDUCATION
-Bachelor of Science in Computer Science; GPA: 3.9
+Bachelor of Science in Computer Science;
 Expected Graduation: May 2027
 Washington State University, Pullman, WA
 
